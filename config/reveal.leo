@@ -360,8 +360,8 @@ note:
 
 Dart 基本概念翻譯
 
-[Overview](https://s40723212.github.io/cd2020/content/overview.html)
-[Environment](https://s40723212.github.io/cd2020/content/environment.html)
+1.[Overview](https://s40723212.github.io/cd2020/content/overview.html)
+2.[Environment](https://s40723212.github.io/cd2020/content/environment.html)
 </t>
 <t tx="leo.20200409150317.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
