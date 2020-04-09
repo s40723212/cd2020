@@ -21,10 +21,11 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>week1</vh></v>
-<v t="leo.20200325232537.1"><vh>week2</vh>
-<v t="leo.20180902120523.12"><vh>新建倉儲</vh></v>
+<v t="leo.20200325232537.1"><vh>week1</vh>
 <v t="leo.20200325232537.2"><vh>亂數分組</vh></v>
+</v>
+<v t="leo.20200409150317.1"><vh>week2</vh>
+<v t="leo.20200409150317.2"><vh>亂數分組</vh></v>
 </v>
 <v t="leo.20200409143957.1"><vh>week3</vh>
 <v t="leo.20200409143957.2"><vh>simulation transltion</vh></v>
@@ -66,20 +67,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12">## week1
-
-新建倉儲
-
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/J2tdoSOqVi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -336,12 +323,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200325232537.2">## week2
+<t tx="leo.20200325232537.2">## week1
 
-亂數分組
+新建倉儲
 
-
-&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/CKX9WwlHMjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/J2tdoSOqVi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200409143957.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -351,7 +337,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200409143957.2">##week3
+<t tx="leo.20200409143957.2">## week3
 
 simulation translation (https://github.com/s40723212/cd2020/blob/master/downloads/Simulation%20translation.pdf)
 
@@ -370,12 +356,26 @@ note:
 
 						
 </t>
-<t tx="leo.20200409143959.2">##week4
+<t tx="leo.20200409143959.2">## week4
 
 Dart 基本概念翻譯
 
 Overview (https://s40723212.github.io/cd2020/content/overview.html)
 Environment (https://s40723212.github.io/cd2020/content/environment.html)
 </t>
+<t tx="leo.20200409150317.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200409150317.2">## week2
+
+亂數分組
+
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/CKX9WwlHMjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
