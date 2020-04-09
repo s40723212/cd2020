@@ -22,10 +22,16 @@
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>week1</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180902120523.12"><vh>新建倉儲</vh></v>
 </v>
 <v t="leo.20200325232537.1"><vh>week2</vh>
-<v t="leo.20200325232537.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200325232537.2"><vh>亂數分組</vh></v>
+</v>
+<v t="leo.20200409143957.1"><vh>week3</vh>
+<v t="leo.20200409143957.2"><vh>simulation transltion</vh></v>
+</v>
+<v t="leo.20200409143959.1"><vh>week4</vh>
+<v t="leo.20200409143959.2"><vh>Dart 基本概念翻譯</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -337,5 +343,40 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/CKX9WwlHMjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;S</t>
+<t tx="leo.20200409143957.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200409143957.2">##week3
+
+simulation translation(https://github.com/s40723212/cd2020/blob/master/downloads/Simulation%20translation.pdf)
+
+&lt;small&gt;
+note:
+1.注意資料來源是否為https，否則將無法成功亂數分組
+2.所有資料來源都來自http，也就是說輸出URL都在http，記得更改不要只有更改Dart的URL
+3.乙班名單(https://s1.mde.nfu.edu.tw:7443/?semester=1082&amp;courseno=0780)
+&lt;/small&gt;</t>
+<t tx="leo.20200409143959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200409143959.2">##week4
+
+Dart 基本概念翻譯
+
+Overview(https://s40723212.github.io/cd2020/content/overview.html)
+Environment(https://s40723212.github.io/cd2020/content/environment.html)
+</t>
 </tnodes>
 </leo_file>
