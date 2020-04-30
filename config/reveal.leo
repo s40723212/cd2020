@@ -22,7 +22,7 @@
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200325232537.1"><vh>week1</vh>
-<v t="leo.20200325232537.2"><vh>亂數分組</vh></v>
+<v t="leo.20200325232537.2"><vh>新建倉儲</vh></v>
 </v>
 <v t="leo.20200409150317.1"><vh>week2</vh>
 <v t="leo.20200409150317.2"><vh>亂數分組</vh></v>
@@ -32,6 +32,24 @@
 </v>
 <v t="leo.20200409143959.1"><vh>week4</vh>
 <v t="leo.20200409143959.2"><vh>Dart 基本概念翻譯</vh></v>
+</v>
+<v t="leo.20200430143025.1"><vh>week4</vh>
+<v t="leo.20200430143025.2"><vh>可攜系統python 3.8升級</vh></v>
+</v>
+<v t="leo.20200430142718.1"><vh>week5</vh>
+<v t="leo.20200430142718.2"><vh>obs 直播設定</vh></v>
+</v>
+<v t="leo.20200430142734.1"><vh>week6</vh>
+<v t="leo.20200430142734.2"><vh>學期抽查</vh></v>
+</v>
+<v t="leo.20200430142737.1"><vh>week7</vh>
+<v t="leo.20200430142737.2"><vh>工作分配討論</vh></v>
+</v>
+<v t="leo.20200430144351.1"><vh>week7</vh>
+<v t="leo.20200430144351.2"><vh>課堂影片抽查</vh></v>
+</v>
+<v t="leo.20200430142740.1"><vh>week8</vh>
+<v t="leo.20200430142740.2"><vh>Dart 基本概念翻譯</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -378,5 +396,100 @@ Dart 基本概念翻譯
 亂數分組
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/CKX9WwlHMjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430142718.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430142718.2">## week5
+
+obs 直播前置作業
+
+
+&lt;small&gt;
+
+1.下載電腦作業系統對應的obs
+
+2.通過youtube實名驗證，並等待24小時使其開通
+
+3.開啟前置鏡頭，若無電腦無前置鏡頭可用ivcam來替代
+
+&lt;/small&gt;
+
+
+</t>
+<t tx="leo.20200430142734.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430142734.2">## week6
+
+學期成果抽查
+
+&lt;iframe width="546" height="310" src="https://www.youtube.com/embed/hjRtGgb6DC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200430142737.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430142737.2">## week7
+
+工作分配討論
+
+&lt;iframe width="496" height="310" src="https://www.youtube.com/embed/EVC9ZV_4RG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430142740.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430142740.2">## week8
+
+vrep 更新教學
+
+&lt;iframe width="496" height="310" src="https://www.youtube.com/embed/0QdJDDxGBIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200430143025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430143025.2">可攜系統python 3.8升級
+
+&lt;iframe width="792" height="425" src="https://www.youtube.com/embed/nW1_UM_VtBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200430144351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430144351.2">課堂影片抽查-直播影片
+
+&lt;iframe width="496" height="310" src="https://www.youtube.com/embed/-2HgGF__3qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
