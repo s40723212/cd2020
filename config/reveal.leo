@@ -51,6 +51,24 @@
 <v t="leo.20200430142740.1"><vh>week8</vh>
 <v t="leo.20200430142740.2"><vh>Dart 基本概念翻譯</vh></v>
 </v>
+<v t="leo.20200625020945.1"><vh>week9</vh>
+<v t="leo.20200625020945.2"><vh>unix</vh></v>
+</v>
+<v t="leo.20200625020948.1"><vh>week10</vh>
+<v t="leo.20200625020948.2"><vh>google pip</vh></v>
+</v>
+<v t="leo.20200625020951.1"><vh>week11</vh>
+<v t="leo.20200625020951.2"><vh>翻譯assignment</vh></v>
+</v>
+<v t="leo.20200625020954.1"><vh>week12</vh>
+<v t="leo.20200625020954.2"><vh>協同分組倉儲cmsimde中若無東西-解決方法</vh></v>
+</v>
+<v t="leo.20200625020956.1"><vh>week13</vh>
+<v t="leo.20200625020956.2"><vh>ubuntu IPV4遠端連線設定</vh></v>
+</v>
+<v t="leo.20200625020958.1"><vh>week14</vh>
+<v t="leo.20200625020958.2"><vh>ubuntu IPV6遠端連線設定</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -176,7 +194,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+40723212 網際內容管理
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -491,5 +509,94 @@ vrep 更新教學
 <t tx="leo.20200430144351.2">課堂影片抽查-直播影片
 
 &lt;iframe width="496" height="310" src="https://www.youtube.com/embed/-2HgGF__3qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200625020945.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625020945.2">## week9
+
+1. unix linux歷史
+2. unix 指令對照表
+
+</t>
+<t tx="leo.20200625020948.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625020948.2">## week10
+
+google pip
+
+&lt;iframe width="496" height="310" src="https://www.youtube.com/embed/gYMqfnsto7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200625020951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625020951.2">## week11
+
+翻譯assignment (https://github.com/s40723212/cd2020/tree/master/downloads)
+
+</t>
+<t tx="leo.20200625020954.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625020954.2">## week12
+
+協同分組倉儲cmsimde中若無東西-解決方法 (https://s40723212.github.io/cd2020/content/Class.html)
+
+
+</t>
+<t tx="leo.20200625020956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625020956.2">## week13
+
+ubuntu IPV4遠端連線設定
+近端python3 wsgi.py 無法成功開起 (https://s40723212.github.io/cd2020/content/Class.html)
+
+&lt;iframe width="496" height="310" src="https://www.youtube.com/embed/lPaJcVRtRZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200625020958.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625020958.2">## week14
+
+ubuntu IPV6遠端連線設定
+近端python3 wsgi.py 無法成功開啟 (https://s40723212.github.io/cd2020/content/Class.html)
+
+&lt;iframe width="496" height="310" src="https://www.youtube.com/embed/Ov_tAgz2d4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
